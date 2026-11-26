@@ -1,0 +1,37 @@
+Category,Region,Segment,Total_Sales,Total_Profit,Total_Quantity,Order_Count,Profit_Margin_Pct
+Technology,East,Consumer,135441.229,19930.1794,988.0,229,14.72
+Technology,West,Consumer,132991.74599999998,27785.5681,1235.0,254,20.89
+Furniture,West,Consumer,119808.087,4330.668000000001,1405.0,311,3.61
+Furniture,East,Consumer,114211.802,2038.1122,1114.0,247,1.78
+Office Supplies,West,Consumer,110080.94,25334.3679,3837.0,601,23.01
+Office Supplies,East,Consumer,101255.136,19222.6927,3245.0,547,18.98
+Office Supplies,Central,Consumer,93111.479,2583.1431999999986,2777.0,447,2.77
+Furniture,Central,Consumer,86229.219,-3994.4341999999997,952.0,209,-4.63
+Furniture,West,Corporate,83080.1065,3968.6659,815.0,174,4.78
+Office Supplies,West,Corporate,77133.856,18527.7008,2097.0,350,24.02
+Technology,Central,Consumer,72690.736,9975.3391,790.0,191,13.72
+Furniture,South,Consumer,70800.204,4616.7326,695.0,150,6.52
+Technology,East,Corporate,69725.566,9822.788199999999,600.0,130,14.09
+Office Supplies,East,Corporate,66474.735,13457.665,2035.0,328,20.24
+Technology,West,Corporate,65641.312,11941.0632,718.0,152,18.19
+Technology,South,Consumer,65276.186,13106.723,584.0,135,20.08
+Technology,Central,Corporate,64772.51,16282.6133,457.0,98,25.14
+Furniture,East,Corporate,64209.046,342.12570000000017,723.0,160,0.53
+Technology,East,Home Office,59807.186,17709.0675,354.0,84,29.61
+Office Supplies,South,Consumer,59504.581,9190.1172,1899.0,327,15.44
+Technology,West,Home Office,53358.774,4577.0183,382.0,84,8.58
+Furniture,Central,Corporate,52085.601800000004,2321.9939,542.0,118,4.46
+Furniture,West,Home Office,49724.55,3205.6164,476.0,110,6.45
+Technology,South,Corporate,46310.731,6120.5333,320.0,74,13.22
+Office Supplies,South,Corporate,45930.17,8142.6596,1281.0,195,17.73
+Office Supplies,Central,Corporate,41137.701,99.29479999999995,1605.0,269,0.24
+Office Supplies,East,Home Office,37786.184,8334.2214,1182.0,199,22.06
+Technology,South,Home Office,37184.991,764.5750999999999,214.0,46,2.06
+Office Supplies,West,Home Office,33638.453,8747.7803,1301.0,218,26.01
+Technology,Central,Home Office,32953.066,7439.4796,297.0,67,22.58
+Office Supplies,Central,Home Office,32777.235,6197.5419,1027.0,164,18.91
+Furniture,East,Home Office,29870.356,665.9279,377.0,81,2.23
+Furniture,South,Corporate,29645.0315,952.0303,415.0,88,3.21
+Furniture,Central,Home Office,25482.343,-1198.6091,333.0,76,-4.7
+Office Supplies,South,Home Office,20216.562,2653.616,620.0,97,13.13
+Furniture,South,Home Office,16853.448500000002,1202.4432,181.0,40,7.13
